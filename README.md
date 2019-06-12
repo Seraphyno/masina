@@ -1,0 +1,3 @@
+# masina
+
+Mocking example
